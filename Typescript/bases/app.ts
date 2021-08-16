@@ -6,4 +6,4 @@
 })()
 
 
-// 13. Inferir tipos y modo estricto
+// 14. Booleans - Booleanos
