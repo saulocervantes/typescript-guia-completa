@@ -71,10 +71,13 @@ const apocalipsis:Apocalipsis = {
   miembros: ["Magneto","Tormenta","Psylocke","Angel"]
 }
 
+console.log(apocalipsis);
+
+
 // Mystique, debe poder ser cualquiera de esos dos mutantes (charles o apocalipsis)
 let mystique: Charles|Apocalipsis;
 
 mystique = charles;
 mystique = apocalipsis;
 
-// 42. Tarea y Resolución del ejercicio práctico #3
+// 45. ¿Qué es el archivo tsconfig y para qué nos puede servir?
