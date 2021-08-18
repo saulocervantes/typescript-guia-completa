@@ -10,3 +10,4 @@
     console.log('Hola Mundo');
 })();
 // 22. Never - Nunca
+//# sourceMappingURL=never.js.map

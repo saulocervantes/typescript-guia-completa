@@ -32,6 +32,8 @@ var charles = {
     poder: "psiquico",
     estatura: 1.78
 };
+console.log("paso por aquí");
+console.log("paso por acá");
 var apocalipsis = {
     lider: true,
     miembros: ["Magneto", "Tormenta", "Psylocke", "Angel"]
@@ -41,4 +43,5 @@ console.log(apocalipsis);
 var mystique;
 mystique = charles;
 mystique = apocalipsis;
-// 45. ¿Qué es el archivo tsconfig y para qué nos puede servir?
+// 46. ¿Es posible la depuración del código de TypeScript?
+//# sourceMappingURL=app.js.map

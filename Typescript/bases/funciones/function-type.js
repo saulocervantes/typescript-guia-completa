@@ -14,3 +14,4 @@
     console.log(myFunction());
 })();
 // 32. Tipo Función
+//# sourceMappingURL=function-type.js.map

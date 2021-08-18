@@ -6,3 +6,4 @@
     console.log({ isSuperman: isSuperman });
 })();
 // 14. Booleans - Booleanos
+//# sourceMappingURL=booleans.js.map

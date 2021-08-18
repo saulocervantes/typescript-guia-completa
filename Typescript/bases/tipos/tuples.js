@@ -7,3 +7,4 @@
     console.log(hero);
 })();
 // 19. Tuples - Tuplas
+//# sourceMappingURL=tuples.js.map

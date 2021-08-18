@@ -9,3 +9,4 @@
     console.log(((_a = Batman[10]) === null || _a === void 0 ? void 0 : _a.toLocaleUpperCase()) || "No está presente");
 })();
 // 16. Strings - Cadenas de caracteres
+//# sourceMappingURL=strings.js.map

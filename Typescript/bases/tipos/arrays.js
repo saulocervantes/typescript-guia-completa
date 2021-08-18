@@ -5,3 +5,4 @@
     villians.forEach(function (v) { return console.log(v.toLocaleUpperCase()); });
 })();
 // 18. Arrays - Arreglos
+//# sourceMappingURL=arrays.js.map

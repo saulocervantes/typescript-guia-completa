@@ -5,3 +5,4 @@
     console.log(isActive);
 })();
 // 23. Null y Undefined
+//# sourceMappingURL=null-undefined.js.map

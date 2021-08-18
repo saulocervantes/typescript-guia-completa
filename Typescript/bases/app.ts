@@ -61,10 +61,16 @@ const charles:Charles = {
   estatura: 1.78
 };
 
+console.log("paso por aquí");
+
+
 type Apocalipsis = {
   lider:boolean,
   miembros: string[];
 }
+
+console.log("paso por acá");
+
 
 const apocalipsis:Apocalipsis = {
   lider:true,
@@ -80,4 +86,4 @@ let mystique: Charles|Apocalipsis;
 mystique = charles;
 mystique = apocalipsis;
 
-// 45. ¿Qué es el archivo tsconfig y para qué nos puede servir?
+// 46. ¿Es posible la depuración del código de TypeScript?

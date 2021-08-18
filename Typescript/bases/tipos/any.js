@@ -12,3 +12,4 @@
     console.log(power);
 })();
 // 17. Tipo Any
+//# sourceMappingURL=any.js.map

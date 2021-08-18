@@ -10,3 +10,4 @@
     console.log(a);
 })();
 // 21. Void - Vacío
+//# sourceMappingURL=void.js.map

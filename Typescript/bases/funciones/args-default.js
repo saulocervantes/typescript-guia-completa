@@ -13,3 +13,4 @@
     console.log({ name: name });
 })();
 // 30. Parámetros por defecto
+//# sourceMappingURL=args-default.js.map
