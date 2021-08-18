@@ -7,11 +7,12 @@
     };
     flash = {
         name: "Clark Kent",
-        age: 60,
+        // age: 60,
         powers: ["Súper fuerza"],
-        getNombre: function () {
-            return this.name;
-        }
+        // getNombre(){
+        //     return this.name;
+        // }
     };
+    console.log({ flash: flash });
 })();
-// 35. Objetos básicos
+// 36. ¿Cómo crear objetos con tipos específicos?
