@@ -86,4 +86,4 @@ let mystique: Charles|Apocalipsis;
 mystique = charles;
 mystique = apocalipsis;
 
-// 47. Remover los comentarios de los archivos de JavaScript
+// 48. Incluir y excluir carpetas y/o archivos
