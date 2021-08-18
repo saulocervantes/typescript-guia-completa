@@ -7,6 +7,7 @@
 
     villians.forEach( v => console.log( v.toLocaleUpperCase()));
     
+    numbers.forEach( v => console.log( v));
 })()
 
-// 18. Arrays - Arreglos
+// 49. outFile - Archivo de salida
