@@ -9,10 +9,10 @@
         name: "Clark Kent",
         // age: 60,
         powers: ["Súper fuerza"],
-        // getNombre(){
+        // getName(){
         //     return this.name;
         // }
     };
-    console.log({ flash: flash });
+    console.log(flash.getName ? flash.getName() : "No se ingreso la función getName");
 })();
-// 36. ¿Cómo crear objetos con tipos específicos?
+// 37. Métodos dentro de los objetos
