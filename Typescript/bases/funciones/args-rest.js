@@ -10,5 +10,4 @@
     var superman = fullName("Clark", "Joseph");
     console.log({ superman: superman });
 })();
-// 31. Parametros REST
 //# sourceMappingURL=args-rest.js.map

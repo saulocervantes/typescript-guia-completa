@@ -12,5 +12,4 @@
     avengers = Number("55A");
     console.log({ avengers: avengers });
 })();
-// 15. Numbers - Números
 //# sourceMappingURL=numbers.js.map

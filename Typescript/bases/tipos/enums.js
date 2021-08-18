@@ -10,5 +10,4 @@
     console.log(currentAudio);
     console.log(AudioLevel);
 })();
-// 20. Emun - Enumeraciones
 //# sourceMappingURL=enums.js.map

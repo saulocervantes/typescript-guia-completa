@@ -86,4 +86,4 @@ let mystique: Charles|Apocalipsis;
 mystique = charles;
 mystique = apocalipsis;
 
-// 46. ¿Es posible la depuración del código de TypeScript?
+// 47. Remover los comentarios de los archivos de JavaScript

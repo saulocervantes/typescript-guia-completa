@@ -12,5 +12,4 @@
     console.log(typeof myCustomVariable);
     console.log(myCustomVariable);
 })();
-// 40. Multiples tipos permitidos
 //# sourceMappingURL=union-types.js.map

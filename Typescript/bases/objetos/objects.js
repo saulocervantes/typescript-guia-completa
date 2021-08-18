@@ -12,5 +12,4 @@
     };
     console.log(flash);
 })();
-// 38. Problema con la definición en línea
 //# sourceMappingURL=objects.js.map

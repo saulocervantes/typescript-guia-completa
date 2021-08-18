@@ -6,5 +6,4 @@
     var name = fullName("Tony");
     console.log({ name: name });
 })();
-// 29. Parámetros opcionales de las funciones
 //# sourceMappingURL=args-optional.js.map

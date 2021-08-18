@@ -4,5 +4,4 @@
     var villians = ["Omega Rojo", "Dormammu", "Duende Verde"];
     villians.forEach(function (v) { return console.log(v.toLocaleUpperCase()); });
 })();
-// 18. Arrays - Arreglos
 //# sourceMappingURL=arrays.js.map

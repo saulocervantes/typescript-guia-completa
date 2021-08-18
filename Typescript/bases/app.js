@@ -1,5 +1,4 @@
 "use strict";
-// Objetos
 var batimovil = {
     carroceria: "Negra",
     modelo: "6x6",
@@ -39,9 +38,7 @@ var apocalipsis = {
     miembros: ["Magneto", "Tormenta", "Psylocke", "Angel"]
 };
 console.log(apocalipsis);
-// Mystique, debe poder ser cualquiera de esos dos mutantes (charles o apocalipsis)
 var mystique;
 mystique = charles;
 mystique = apocalipsis;
-// 46. ¿Es posible la depuración del código de TypeScript?
 //# sourceMappingURL=app.js.map

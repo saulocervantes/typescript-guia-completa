@@ -14,5 +14,4 @@
         }
     };
 })();
-// 39. Tipos personalizados
 //# sourceMappingURL=type.js.map

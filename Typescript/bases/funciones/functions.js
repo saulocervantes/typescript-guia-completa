@@ -10,5 +10,4 @@
     console.log(typeof activateBatisignal);
     var heroName = returnName();
 })();
-// 27. Funciones básicas
 //# sourceMappingURL=functions.js.map
