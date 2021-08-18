@@ -1,37 +1,32 @@
 "use strict";
-(function () {
-    // Tipos
-    var batman = 'Bruce';
-    var superman = 'Clark';
-    var existe = false;
-    // Tuplas
-    var parejaHeroes = [batman, superman];
-    var villano = ['Lex Lutor', 5, true];
-    // Arreglos
-    var aliados = ['Mujer Maravilla', 'Acuaman', 'San', 'Flash'];
-    //Enumeraciones
-    // ? enum { acuaman = 0 }
-    var Fuerza;
-    (function (Fuerza) {
-        Fuerza[Fuerza["Acuaman"] = 0] = "Acuaman";
-        Fuerza[Fuerza["Batman"] = 1] = "Batman";
-        Fuerza[Fuerza["Flash"] = 5] = "Flash";
-        Fuerza[Fuerza["Superman"] = 100] = "Superman";
-    })(Fuerza || (Fuerza = {}));
-    var fuerzaFlash = Fuerza.Flash;
-    var fuerzaSuperman = Fuerza.Superman;
-    var fuerzaBatman = Fuerza.Batman;
-    var fuerzaAcuaman = Fuerza.Acuaman;
-    // Retorno de funciones
-    function activar_batiseñal() {
-        return 'activada';
+// Funciones Básicas
+function sumar(a, b) {
+    return a + b;
+}
+var contar = function (heroes) {
+    return heroes.length;
+};
+var superHeroes = ["Flash", "Arrow", "Superman", "Linterna Verde"];
+contar(superHeroes);
+// Parámetros por defecto
+var llamarBatman = function (llamar) {
+    if (llamar === void 0) { llamar = true; }
+    if (llamar) {
+        console.log("Batiseñal activada");
     }
-    function pedir_ayuda() {
-        console.log('Auxilio!!!');
+};
+llamarBatman();
+// Rest?
+var unirheroes = function () {
+    var personas = [];
+    for (var _i = 0; _i < arguments.length; _i++) {
+        personas[_i] = arguments[_i];
     }
-    // Aserciones de Tipo
-    var poder = '100';
-    var largoDelPoder = poder.length;
-    console.log(largoDelPoder);
-})();
-// 25. Tarea y Resolución del Ejercicio #1
+    return personas.join(", ");
+};
+// Tipo función
+var noHaceNada = function (numero, texto, booleano, arreglo) { };
+// Crear el tipo de función que acepte la función "noHaceNada"
+var noHaceNadaTampoco;
+noHaceNadaTampoco = noHaceNada;
+// 33. Tarea y Resolución del ejercicio práctico #2
